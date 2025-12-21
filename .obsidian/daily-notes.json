@@ -1,4 +1,5 @@
 {
   "format": "",
-  "folder": "daily-notes"
+  "folder": "daily-notes",
+  "autorun": true
 }
