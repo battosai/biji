@@ -13,6 +13,8 @@
 	- Some areas are unlocked for different ends of the tendency ranges
 - World 3-3 Old Monk boss that summons another player as the actual boss for a different player's game
 
+---
+
 ***Lessons Learned***
 
 Melee is the way. Ranged (bow/xbow) weapons felt very lackluster and magic has never really appealed to me. 
