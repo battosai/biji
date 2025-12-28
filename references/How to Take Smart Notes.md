@@ -27,3 +27,5 @@ Regularly having to review your own notes through the lifecycle is better than a
 The slipbox method accommodates modifications to its knowledge base because everything is written with your own mental model. (pg. 56)
 
 Doing something a lot doesn't make you good at it. Familiarity =/= skill. (pg. 58)
+
+Experience beats out formal teaching (pgs. 66-67)

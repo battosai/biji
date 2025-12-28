@@ -1,4 +1,4 @@
-***Unique Mechanics***
+***Memorable Mechanics***
 - Dying in physical form puts you in spirit form w/ only 50% health
 	- Spirit form only gives you 50% health but you can't be invaded
 	- Physical form gives you 100% health but you can be invaded and summon players
