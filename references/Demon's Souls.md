@@ -17,8 +17,8 @@
 
 ***Lessons Learned***
 
-Melee is the way. Ranged (bow/xbow) weapons felt very lackluster and magic has never really appealed to me. 
+[[202512222241|Melee is the way]]. Ranged (bow/xbow) weapons felt very lackluster and magic has never really appealed to me. 
 
-I didn't want to be invaded so I played in spirit form and just fought bosses solo. Nowhere to hide. "Got gud".
+I didn't want to be invaded so I played in spirit form and just fought bosses solo. Nowhere to hide. [[202512261211|"Got gud".]]
 
-Summoning made the bosses immensely easier because they would split their attention. So much of a boss's difficulty comes from having to read their movesets and find an opening to attack or heal or recover stamina.
+Summoning made the bosses [[202512261047|immensely easier]] because they would split their attention. So much of a boss's difficulty comes from having to read their movesets and find an opening to attack or heal or recover stamina.
