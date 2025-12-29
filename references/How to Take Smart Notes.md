@@ -29,3 +29,5 @@ The slipbox method accommodates modifications to its knowledge base because ever
 Doing something a lot doesn't make you good at it. Familiarity =/= skill. (pg. 58)
 
 Experience beats out formal teaching (pgs. 66-67)
+
+Processing literature notes into your own ideas is the root of this process. (pg. 77)
