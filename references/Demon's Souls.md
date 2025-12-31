@@ -1,4 +1,17 @@
-***Memorable Mechanics***
+---
+Published: "2009"
+Developer: FromSoftware Inc.
+Engine: Proprietary
+tags:
+  - reference
+  - video-game
+  - fantasy
+  - action
+  - rpg
+---
+---
+## Memorable Mechanics
+
 - Dying in physical form puts you in spirit form w/ only 50% health
 	- Spirit form only gives you 50% health but you can't be invaded
 	- Physical form gives you 100% health but you can be invaded and summon players
@@ -14,8 +27,7 @@
 - World 3-3 Old Monk boss that summons another player as the actual boss for a different player's game
 
 ---
-
-***Lessons Learned***
+## Lessons Learned
 
 [[202512222241|Melee is the way]]. Ranged (bow/xbow) weapons felt very lackluster and magic has never really appealed to me. 
 

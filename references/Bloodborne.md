@@ -1,10 +1,22 @@
-***Memorable Mechanics***
+---
+Published: "2015"
+Developer: FromSoftware Inc.
+Engine: Proprietary
+tags:
+  - reference
+  - video-game
+  - gothic
+  - action
+  - rpg
+---
+---
+## Memorable Mechanics
+
 - Rally system where there is a brief period after taking damage that the player can regain lost health by attacking enemies
 - Trick weapons that have 2 forms
 
 ---
-
-***Lessons Learned***
+## Lessons Learned
 
 Don't let a mistake trip you up. Keep the aggression up where it makes sense, but don't get sloppy.
 
