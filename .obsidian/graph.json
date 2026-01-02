@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:slipbox  ",
+      "color": {
+        "a": 1,
+        "rgb": 13092807
+      }
+    },
+    {
+      "query": "path:references tag:#book",
+      "color": {
+        "a": 1,
+        "rgb": 16701031
+      }
+    },
+    {
+      "query": "path:references tag:#video-game",
+      "color": {
+        "a": 1,
+        "rgb": 12216063
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.449,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3324391627804522,
+  "close": true
+}
