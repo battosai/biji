@@ -1,5 +1,9 @@
 {
   "vimMode": true,
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "templates/",
+    "daily-notes/"
+  ]
 }

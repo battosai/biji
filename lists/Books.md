@@ -1,1 +1,0 @@
-[No Surrender: My Thirty-Year War](https://www.goodreads.com/book/show/4364087)
