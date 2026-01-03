@@ -4,6 +4,7 @@
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "templates/",
-    "daily-notes/"
+    "daily-notes/",
+    "lists/"
   ]
 }
