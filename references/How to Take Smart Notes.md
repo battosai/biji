@@ -39,3 +39,5 @@ Experience beats out formal teaching. (pgs. 66-67)
 Processing literature notes into your own ideas is the root of this process. (pg. 77)
 
 Seek out views that [[202512292227|challenge yours]] in order to improve them. (pgs. 79-80)
+
+Use one note as an index that contains keywords or keyphrases that act as entry points into the slipbox. Be selective though, it's not a table of contents. (pg. 109)
