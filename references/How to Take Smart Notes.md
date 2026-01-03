@@ -4,8 +4,8 @@ Published: "2017"
 tags:
   - reference
   - book
-  - self-improvement
   - non-fiction
+  - productivity
 ---
 ---
 Slipbox will eventually provide you with a [[202512262249|skeleton of linked ideas]] that you can then build upon rather than starting with a blank slate (pgs. 2-3)

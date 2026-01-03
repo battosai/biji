@@ -1,0 +1,2 @@
+- The Design of Everyday Things by Don Norman
+- A System for Writing by Bob Doto
