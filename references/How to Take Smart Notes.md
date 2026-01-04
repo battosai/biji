@@ -41,3 +41,5 @@ Processing literature notes into your own ideas is the root of this process. (pg
 Seek out views that [[202512292227|challenge yours]] in order to improve them. (pgs. 79-80)
 
 Use one note as an index that contains keywords or keyphrases that act as entry points into the slipbox. Be selective though, it's not a table of contents. (pg. 109)
+
+Abstraction is critical for applying insight across different contexts. (pg. 124)
