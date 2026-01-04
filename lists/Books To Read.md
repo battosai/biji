@@ -1,3 +1,4 @@
-- The Design of Everyday Things by Don Norman
+- (In Progress) The Design of Everyday Things by Don Norman
 - A System for Writing by Bob Doto
 - Sources of Power: How People Make Decisions by Gary A. Klein
+- (Reread) The Inmates Are Running the Asylum by Alan Cooper
