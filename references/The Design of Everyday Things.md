@@ -11,6 +11,10 @@ tags:
 Discoverability = Can people figure out what actions can be done with something?
 Understanding = Can people figure out what those actions will do? (pg. 3)
 
-Engineers understand technology, not people. Yet they are doing a majority of design. (pg. 6)
+Engineers understand technology, [[202512241124|not people]]. Yet they are doing a majority of design. (pg. 6)
 
 It's more important to design for when things go wrong. Mistakes should not be catastrophic. (pg. 9)
+
+Signifiers indicate how to properly use something and need to be incorporated into the overall experience to be considered good design. (pgs. 13-19)
+
+Forming a mental model of how something works hinges on using good mapping (spatial, cultural, natural, etc.) between controls and expected output. (pgs. 21-22)
