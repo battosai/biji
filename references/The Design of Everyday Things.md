@@ -18,3 +18,7 @@ It's more important to design for when things go wrong. Mistakes should not be c
 Signifiers indicate how to properly use something and need to be incorporated into the overall experience to be considered good design. (pgs. 13-19)
 
 Forming a mental model of how something works hinges on using good mapping (spatial, cultural, natural, etc.) between controls and expected output. (pgs. 21-22)
+
+Users should know what possible actions can be done whether or not the system is working the way they desired. (pgs. 38-40)
+
+Don't just solve the user's intermediary goal, keep asking why they're doing something. (pgs. 42-44)
